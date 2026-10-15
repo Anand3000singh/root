@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1792100604,
+      "datetime": 1792103083,
       "version": "2.9",
-      "build_date": 1792100604,
+      "build_date": 1792103083,
       "option_id": "root_twrp",
-      "title": "Root + V4 TWRP",
-      "description": "Rooted boot.img with custom TWRP recovery",
+      "title": "Root KSU-NEXT + V4 TWRP",
+      "description": "Rooted boot.img with custom TWRP V4 recovery",
       "filename": "axion-2.9-20261015-nabu-root-twrp.zip",
       "id": "d7f19ba8028cfd87476741215675e32a",
       "sha256": "df03d02e3dad72cc48444902a25d9dfa84282ad4705ce3657618fd81b6120afb",
