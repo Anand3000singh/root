@@ -12,6 +12,19 @@
       "sha256": "df03d02e3dad72cc48444902a25d9dfa84282ad4705ce3657618fd81b6120afb",
       "size": 49390065,
       "url": "https://github.com/Anand3000singh/root/releases/download/1792082147/test-root.zip"
+    },
+    {
+      "datetime": 1792106910,
+      "version": "2.9",
+      "build_date": 1792106910,
+      "option_id": "root",
+      "title": "KSU-NEXT Root v3.3.0",
+      "description": "KSU-Next Root v3.3.0",
+      "filename": "test-root.zip",
+      "id": "d7f19ba8028cfd87476741215675e32a",
+      "sha256": "df03d02e3dad72cc48444902a25d9dfa84282ad4705ce3657618fd81b6120afb",
+      "size": 49390065,
+      "url": "https://github.com/Anand3000singh/root/releases/download/1792082147/test-root.zip"
     }
   ]
 }
