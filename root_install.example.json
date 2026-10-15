@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+      "datetime": 1792067723,
+      "version": "2.9",
+      "build_date": 1792000000,
+      "option_id": "root_twrp",
+      "title": "Root + TWRP",
+      "description": "Rooted boot.img with custom TWRP recovery",
+      "filename": "axion-2.9-20261015-nabu-root-twrp.zip",
+      "id": "MD5_OF_ZIP",
+      "sha256": "OPTIONAL_SHA256_OF_ZIP",
+      "size": 134217728,
+      "url": "https://github.com/YOUR_USER/YOUR_REPO/releases/download/20261015/axion-2.9-20261015-nabu-root-twrp.zip"
+    }
+  ]
+}
